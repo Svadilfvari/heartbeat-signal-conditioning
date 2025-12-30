@@ -88,15 +88,6 @@ This repository documents a hardware project that measures heartbeat signals usi
 ![](images/fig_4_1.png)
 
 
-## How to use this repo in a portfolio
-
-- Link to this GitHub repo as the “source of truth” documentation.
-- On your portfolio website, highlight:
-  - The problem and constraints (non-invasive heartbeat sensing)
-  - Your design approach (sensor → filter → amplifier → count)
-  - A couple of the most compelling figures (FFT + filter response + amplified waveform)
-  - A link to the PDF report for full details.
-
 ## Disclaimer
 
 This project is for educational purposes only and **not** a medical device.
